@@ -1,1 +1,1 @@
-# manabikko-iphon
+# manabikko-iphone
